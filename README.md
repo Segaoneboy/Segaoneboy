@@ -75,5 +75,4 @@ _(Coming soon...)_ -->
 - 💬 Telegram: [@sega_oneboy](https://t.me/Segaoneboy)  
 - 🌐 GitHub: [github.com/Segaoneboy](https://github.com/Segaoneboy)
 
----
 
