@@ -72,7 +72,7 @@ _(Coming soon...)_ -->
 ### 📫 Contact
 
 - ✉️ Email: s4666868@gmail.com  
-- 💬 Telegram: [@sega_oneboy](https://t.me/Segaoneboy)  
+- 💬 Telegram: [@sega_oneboy](https://t.me/sega_oneboy)  
 - 🌐 GitHub: [github.com/Segaoneboy](https://github.com/Segaoneboy)
 
 
