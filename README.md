@@ -56,9 +56,9 @@ _(Coming soon...)_ -->
 
 ### 🎓 Education
 
-`—`
-
----
+**Novosibirsk State Technical University (NSTU)**  
+Bachelor in Computer Science and Engineering
+📅 2025 — 2029
 
 ---
 
