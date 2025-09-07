@@ -52,7 +52,6 @@ I bring a strong sense of ownership to my work, excellent attention to detail, a
 <!-- ### 📁 Projects
 _(Coming soon...)_ -->
 
----
 
 ### 🎓 Education
 
