@@ -72,6 +72,5 @@ Bachelor in Computer Science and Engineering
 
 - ✉️ Email: s4666868@gmail.com  
 - 💬 Telegram: [@sega_oneboy](https://t.me/sega_oneboy)  
-- 🌐 GitHub: [github.com/Segaoneboy](https://github.com/Segaoneboy)
 
 
